@@ -1,6 +1,10 @@
-### Hi! My Name is DarkBlue!
+### NoMillimeter / KR
+> JavaScript & Python 학생 개발자<br>
+> IT보안 & 로봇과학 독학 중<br>
 
-![D3rkBlue's github stats](https://github-readme-stats.vercel.app/api?username=D3rkBlue&show_icons=true)
+문의는 NoMillimeter#5500로 해주세요.
+
+![NoMillimeter's github stats](https://github-readme-stats.vercel.app/api?username=NoMillimeter&show_icons=true)
 
 <!--
 **D3rkBlue/D3rkBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
