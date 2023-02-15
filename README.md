@@ -1,10 +1,10 @@
-### NoMillimeter / KR
+### 노터 / KR
 > JavaScript & Python 학생 개발자<br>
 > IT보안 & 로봇과학 독학 중<br>
 
-문의는 NoMillimeter#5500로 해주세요.
+문의는 노터#5500로 해주세요.
 
-![NoMillimeter's github stats](https://github-readme-stats.vercel.app/api?username=NoMillimeter&show_icons=true)
+![Noteor777's github stats](https://github-readme-stats.vercel.app/api?username=Noteor777&show_icons=true)
 
 <!--
 **D3rkBlue/D3rkBlue** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
